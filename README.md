@@ -1,8 +1,11 @@
 # Escape from the braxis holdout
 English version introduction:
  This is my graduation project of undergraduate. Based on Unity and use C#.
+ 
  You can go to the release to find the released zip and run in your own computer.
+ 
  You can also see my preview video to get a quick view of my game demo.
+ 
  https://youtu.be/OodFkcMVAC0
  
  All resource copyrights belong to the holder, and this project is only used for learning purposes and not for commercial purposes.
